@@ -1,0 +1,1 @@
+This heckin' good boye wants to protect his flags, so he implemented a taint analysis in a typechecker. Hopefully he got it right. 
